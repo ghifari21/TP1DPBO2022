@@ -43,7 +43,7 @@ Adapun cara mengeksekusi kode program dalam Repository ini adalah dengan cara me
   <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/ValidasiAddAuthor.png" alt="Validasi"/>
 </p>
 <p align="center">
-  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/ValidasiAddBuku.png" alt="Validasi"/>
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/2af3f7f8b60a5e064e61d83ae3658f8f947212b0/Screenshot/ValidasiAddBuku.png" alt="Validasi"/>
 </p>
 <p align="center">
   <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/ValidasiDelete.png" alt="Validasi"/>
