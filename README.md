@@ -12,6 +12,41 @@ Dalam project kali ini hanya menggunakan satu bahasa pemrograman saja, yaitu Jav
 
 ### Cara Eksekusi Kode Program
 
-Adapun cara mengeksekusi kode program dalam Repository ini adalah dengan cara membuka file DaftarMahasiswa.jar.
+Adapun cara mengeksekusi kode program dalam Repository ini adalah dengan cara membuka file TP1DPBO2022.jar didalam folder dist.
 
 ### Hasil dari Kode Program Setelah Dijalankan
+
+- ### Author
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/TampilanAuthor.png" alt="TampilanAuthor"/>
+</p>
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/TampilanAddAuthor.png" alt="TampilanAuthor"/>
+</p>
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/TampilanEditAuthor.png" alt="TampilanAuthor"/>
+</p>
+
+- ### Buku
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/TampilanBuku.png" alt="TampilanBuku"/>
+</p>
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/TampilanAddBuku.png" alt="TampilanBuku"/>
+</p>
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/TampilanEditBuku.png" alt="TampilanBuku"/>
+</p>
+
+- ### Validasi
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/ValidasiAddAuthor.png" alt="Validasi"/>
+</p>
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/ValidasiAddBuku.png" alt="Validasi"/>
+</p>
+<p align="center">
+  <img src="https://github.com/ghifari21/TP1DPBO2022/blob/a0231653186a294a15eb25a16755c069484b388d/Screenshot/ValidasiDelete.png" alt="Validasi"/>
+</p>
+
+## ありがとう
